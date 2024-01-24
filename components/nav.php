@@ -1,7 +1,7 @@
 <nav class="nav">
     <div>
         <a>
-            <img src="../pics/7005238.png" width="20%">
+            <img src="../pics/blue-ocean-pastel-watercolor-snow-border-png_245468.png" width="20%">
         </a>
     </div>
     <div class="nav_links">
