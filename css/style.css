@@ -28,6 +28,18 @@ body {
     margin: 0 auto;
 }
 
+h2 {
+    font-family: 'IBM Plex Serif', serif;
+    font-family: 'Oooh Baby', cursive;
+    color: #4b1b4a;
+}
+h1 {
+    font-family: 'IBM Plex Serif', serif;
+    font-family: 'Oooh Baby', cursive;
+    color: #4b1b4a;
+
+}
+
 /* grid */
 
 .grid_card {
@@ -73,4 +85,13 @@ footer {
     justify-content: center;
     padding-top: 2rem;
     color:#B57FB3;
+}
+
+.text_align {
+    font-size: 18px;
+    color: #B57FB3;
+    padding-left: 20rem;
+    padding-right: 20rem;
+    padding-top: 3rem;
+    
 }
