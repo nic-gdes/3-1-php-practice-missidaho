@@ -15,8 +15,8 @@
 
     <?php include('./components/nav.php'); ?>
     <main>
-        <h1>Home Page</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, illum? Velit maiores temporibus dignissimos pariatur, reiciendis quaerat magnam placeat eius quia error assumenda nemo officia sequi enim, similique sit itaque?</p>
+        <!-- <h1>Home Page</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, illum? Velit maiores temporibus dignissimos pariatur, reiciendis quaerat magnam placeat eius quia error assumenda nemo officia sequi enim, similique sit itaque?</p> -->
 
         <!-- grid -->
         <div class="grid_align">
@@ -83,6 +83,7 @@
                 </div>
             </div>
         </div>
+        <?php include('./components/footer.php'); ?>
     </main>
 </body>
 

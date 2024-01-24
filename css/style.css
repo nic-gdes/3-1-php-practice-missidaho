@@ -62,3 +62,15 @@ body {
     align-content: center;
     justify-content: center;
 }
+
+/* footer */
+footer {
+    background-color: #DEB3CF;
+    padding-bottom: 2rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 2rem;
+    color:#B57FB3;
+}
