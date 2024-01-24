@@ -1,15 +1,18 @@
-<nav id="nav">
-    <ul>
-        <li> <a>
-                <img src="../pics/1600w-qRQJCijq_Jw.webp" width="20%">
-            </a></li>
-        <li>
-            <a>Home
+<nav class="nav">
+    <div>
+        <a>
+            <img src="../pics/7005238.png" width="20%">
+        </a>
+    </div>
+    <div class="nav_links">
+        <div>
+            <a href="../index.php">Home
             </a>
-        </li>
-        <li>
-            <a href="./contact.php"></a>
-        </li>
-    </ul>
+        </div>
+        <div> 
+            <a href="./contact.php">Contact</a>
+        </div>
+    </div>
+
 
 </nav>
