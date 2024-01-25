@@ -1,6 +1,6 @@
 <nav class="nav">
     <div>
-        <a>
+        <a href="../index.php">
             <img src="../pics/blue-ocean-pastel-watercolor-snow-border-png_245468.png" width="20%">
         </a>
     </div>

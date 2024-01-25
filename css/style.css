@@ -153,6 +153,15 @@ footer {
     margin: .5rem;
 
 }
+.submit_buuton:hover {
+    border: #B57FB3 solid 2px;
+    background-color: #f7c3e5;
+    min-height: 50px;
+    grid-column: 1/3;
+    margin: .5rem;
+    cursor: grab;
+
+}
 h3 {
     font-family: 'IBM Plex Serif', serif;
     font-family: 'Oooh Baby', cursive;
